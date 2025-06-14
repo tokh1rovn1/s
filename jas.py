@@ -1,0 +1,1 @@
+print("menga qara")
