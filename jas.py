@@ -1,1 +1,1 @@
-print("menga qara")
+print("menga qavvvnnvnncvnncnbzvna")
